@@ -1,5 +1,5 @@
 
-[![Build Status](https://dev.azure.com/samdosado-msa-devops-2020/Space%20Game%20-web%20-Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/samdosado-msa-devops-2020/Space%20Game%20-web%20-Workflow/_build/latest?definitionId=2&branchName=master)
+[![Build Status](https://dev.azure.com/samdosado-msa-devops-2020/Space%20Game%20-%20web%20-%20Tests2/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/samdosado-msa-devops-2020/Space%20Game%20-%20web%20-%20Tests2/_build/latest?definitionId=5&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
